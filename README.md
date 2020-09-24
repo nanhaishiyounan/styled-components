@@ -10,7 +10,7 @@ const Title = styled.View`
   height: 50vh;
 `;
 
-const Wrapper = styled.section`
+const Wrapper = styled.View`
   width: ${{
     320: '100rem',
     375: '200rem',
@@ -18,7 +18,7 @@ const Wrapper = styled.section`
   }}
 `;
 
-// Use them like any other React component – except they're styled!
+
 <Wrapper>
   <Title>Hello World, this is my first styled component!</Title>
 </Wrapper>
