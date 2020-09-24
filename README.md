@@ -2,8 +2,6 @@
 
 <!-- prettier-ignore -->
 ```JSX
-import React from 'react';
-
 import styled from '@xmly/styled-components';
 
 // rem以设计稿375px为基准
